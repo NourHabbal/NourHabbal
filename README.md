@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @NourHabbal
-- 👀 I’m interested in making video games
-- 🌱 I’m currently learning GDScript and Python
+Hello! My name is Nour Habbal. I'm fairly new to programming, and am currently trying to learn GDscript and python!
 
 <!---
 NourHabbal/NourHabbal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

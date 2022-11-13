@@ -1,4 +1,4 @@
-Hello, my name is Nour Habbal. I've been learning about programming for over half a year now, and am currently trying to learn GDscript and Python
+Average github user. Planning on becoming a game developer 
 
 <!---
 NourHabbal/NourHabbal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

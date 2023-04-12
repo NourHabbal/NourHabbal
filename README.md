@@ -1,4 +1,4 @@
-Average github user. Planning on becoming a game developer 
+Average github user
 
 <!---
 NourHabbal/NourHabbal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
